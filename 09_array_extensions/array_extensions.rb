@@ -14,5 +14,4 @@ class Array
 		self.collect!{|x| x**2}
 	end
 
-
 end
